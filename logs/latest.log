@@ -1,34 +1,39 @@
-[19:24:39] [ServerMain/INFO]: Building unoptimized datafixer
-[19:24:39] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19:24:40] [ServerMain/INFO]: Loaded 7 recipes
-[19:24:40] [ServerMain/INFO]: Loaded 1179 advancements
-[19:24:40] [Server thread/INFO]: Starting minecraft server version 1.19.2
-[19:24:40] [Server thread/INFO]: Loading properties
-[19:24:40] [Server thread/INFO]: Default game type: SURVIVAL
-[19:24:40] [Server thread/INFO]: Generating keypair
-[19:24:40] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:24:41] [Server thread/INFO]: Using default channel type
-[19:24:41] [Server thread/INFO]: Preparing level "world"
-[19:24:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:24:42] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[19:24:42] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[19:24:42] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[19:24:42] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[19:24:43] [Server thread/INFO]: Time elapsed: 1911 ms
-[19:24:43] [Server thread/INFO]: Done (2.023s)! For help, type "help"
-[19:24:47] [User Authenticator #1/INFO]: UUID of player Senga314 is 594a5664-5c3e-4485-9858-3992d78323d5
-[19:24:47] [Server thread/INFO]: Senga314[/127.0.0.1:57145] logged in with entity id 54 at (4224.469900910619, 67.0, -608.2065222130246)
-[19:24:47] [Server thread/INFO]: Senga314 joined the game
-[19:24:53] [Server thread/INFO]: Senga314 lost connection: Disconnected
-[19:24:53] [Server thread/INFO]: Senga314 left the game
-[19:24:58] [Server thread/INFO]: Stopping the server
-[19:24:58] [Server thread/INFO]: Stopping server
-[19:24:58] [Server thread/INFO]: Saving players
-[19:24:58] [Server thread/INFO]: Saving worlds
-[19:24:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[server1193]'/minecraft:overworld
-[19:24:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[server1193]'/minecraft:the_nether
-[19:24:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[server1193]'/minecraft:the_end
-[19:24:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:24:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:24:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:24:59] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10:22:25] [ServerMain/INFO]: Building unoptimized datafixer
+[10:22:25] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[10:22:26] [ServerMain/INFO]: Loaded 7 recipes
+[10:22:27] [ServerMain/INFO]: Loaded 1179 advancements
+[10:22:27] [Server thread/INFO]: Starting minecraft server version 1.19.2
+[10:22:27] [Server thread/INFO]: Loading properties
+[10:22:27] [Server thread/INFO]: Default game type: SURVIVAL
+[10:22:27] [Server thread/INFO]: Generating keypair
+[10:22:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:22:27] [Server thread/INFO]: Using default channel type
+[10:22:27] [Server thread/INFO]: Preparing level "world"
+[10:22:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:22:30] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[10:22:30] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[10:22:30] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[10:22:30] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[10:22:30] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[10:22:30] [Worker-Main-8/INFO]: Preparing spawn area: 5%
+[10:22:31] [Server thread/INFO]: Time elapsed: 3026 ms
+[10:22:31] [Server thread/INFO]: Done (3.187s)! For help, type "help"
+[10:22:44] [Server thread/INFO]: Incorrect argument for command
+[10:22:44] [Server thread/INFO]: whitelist Rocker553<--[HERE]
+[10:22:53] [Server thread/INFO]: Incorrect argument for command
+[10:22:53] [Server thread/INFO]: whitelist "Rocker553"<--[HERE]
+[10:23:00] [Server thread/INFO]: Incorrect argument for command
+[10:23:00] [Server thread/INFO]: whitelist Rocker553<--[HERE]
+[10:30:38] [Server thread/INFO]: Added Rocker553 to the whitelist
+[10:30:43] [Server thread/INFO]: Added Senga314 to the whitelist
+[10:30:55] [Server thread/INFO]: Stopping the server
+[10:30:55] [Server thread/INFO]: Stopping server
+[10:30:55] [Server thread/INFO]: Saving players
+[10:30:55] [Server thread/INFO]: Saving worlds
+[10:30:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[server1193]'/minecraft:overworld
+[10:30:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[server1193]'/minecraft:the_end
+[10:30:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[server1193]'/minecraft:the_nether
+[10:30:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:30:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:30:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:30:56] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
