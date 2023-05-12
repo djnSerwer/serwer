@@ -1,40 +1,44 @@
-[20:38:56] [ServerMain/INFO]: Building unoptimized datafixer
-[20:38:57] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20:38:57] [ServerMain/INFO]: Loaded 7 recipes
-[20:38:58] [ServerMain/INFO]: Loaded 1179 advancements
-[20:38:58] [Server thread/INFO]: Starting minecraft server version 1.19.2
-[20:38:58] [Server thread/INFO]: Loading properties
-[20:38:58] [Server thread/INFO]: Default game type: SURVIVAL
-[20:38:58] [Server thread/INFO]: Generating keypair
-[20:38:58] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:38:58] [Server thread/INFO]: Using default channel type
-[20:38:58] [Server thread/INFO]: Preparing level "world"
-[20:38:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:39:00] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[20:39:00] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:39:00] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[20:39:00] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[20:39:00] [Worker-Main-11/INFO]: Preparing spawn area: 65%
-[20:39:00] [Server thread/INFO]: Time elapsed: 2108 ms
-[20:39:00] [Server thread/INFO]: Done (2.221s)! For help, type "help"
-[20:39:31] [User Authenticator #1/INFO]: UUID of player Rocker553 is ce264e72-a954-403f-88f6-3aa7e172bdff
-[20:39:31] [Server thread/INFO]: Rocker553[/[0:0:0:0:0:0:0:1]:56611] logged in with entity id 59 at (4195.123954732486, 74.0, -592.9391632142501)
-[20:39:31] [Server thread/INFO]: Rocker553 joined the game
-[20:40:15] [User Authenticator #2/INFO]: UUID of player Senga314 is 594a5664-5c3e-4485-9858-3992d78323d5
-[20:40:15] [Server thread/INFO]: Senga314[/127.0.0.1:56640] logged in with entity id 431 at (4187.406786434193, 75.0, -604.0262597597588)
-[20:40:15] [Server thread/INFO]: Senga314 joined the game
-[20:49:31] [Server thread/INFO]: Rocker553 lost connection: Disconnected
-[20:49:31] [Server thread/INFO]: Rocker553 left the game
-[20:50:33] [Server thread/INFO]: Senga314 lost connection: Disconnected
-[20:50:33] [Server thread/INFO]: Senga314 left the game
-[21:36:26] [Server thread/INFO]: Stopping the server
-[21:36:26] [Server thread/INFO]: Stopping server
-[21:36:26] [Server thread/INFO]: Saving players
-[21:36:26] [Server thread/INFO]: Saving worlds
-[21:36:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[server1193]'/minecraft:overworld
-[21:36:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[server1193]'/minecraft:the_nether
-[21:36:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[server1193]'/minecraft:the_end
-[21:36:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:36:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:36:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:36:27] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:45:39] [ServerMain/INFO]: Building unoptimized datafixer
+[17:45:39] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:45:40] [ServerMain/INFO]: Loaded 7 recipes
+[17:45:40] [ServerMain/INFO]: Loaded 1179 advancements
+[17:45:41] [Server thread/INFO]: Starting minecraft server version 1.19.2
+[17:45:41] [Server thread/INFO]: Loading properties
+[17:45:41] [Server thread/INFO]: Default game type: SURVIVAL
+[17:45:41] [Server thread/INFO]: Generating keypair
+[17:45:41] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:45:41] [Server thread/INFO]: Using default channel type
+[17:45:41] [Server thread/INFO]: Preparing level "world"
+[17:45:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:45:42] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[17:45:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:45:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:45:42] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[17:45:43] [Worker-Main-2/INFO]: Preparing spawn area: 77%
+[17:45:43] [Server thread/INFO]: Time elapsed: 2057 ms
+[17:45:43] [Server thread/INFO]: Done (2.213s)! For help, type "help"
+[17:46:02] [User Authenticator #1/INFO]: UUID of player Rocker553 is ce264e72-a954-403f-88f6-3aa7e172bdff
+[17:46:02] [Server thread/INFO]: Rocker553[/[0:0:0:0:0:0:0:1]:58247] logged in with entity id 54 at (4245.0132395324645, -24.0, -703.0467255689815)
+[17:46:02] [Server thread/INFO]: Rocker553 joined the game
+[17:46:34] [User Authenticator #2/INFO]: UUID of player Senga314 is 594a5664-5c3e-4485-9858-3992d78323d5
+[17:46:34] [Server thread/INFO]: Senga314[/127.0.0.1:58262] logged in with entity id 368 at (4260.300780018652, -17.0, -689.7099357740798)
+[17:46:34] [Server thread/INFO]: Senga314 joined the game
+[17:48:19] [Server thread/INFO]: Rocker553 has made the advancement [Sneak 100]
+[17:51:43] [Server thread/INFO]: Senga314 has made the advancement [Diamonds!]
+[17:52:24] [Server thread/INFO]: Rocker553 has made the advancement [Not Today, Thank You]
+[18:12:48] [Server thread/INFO]: Seed: [2137]
+[18:24:49] [Server thread/INFO]: Senga314 lost connection: Disconnected
+[18:24:49] [Server thread/INFO]: Senga314 left the game
+[18:25:03] [Server thread/INFO]: Rocker553 lost connection: Disconnected
+[18:25:03] [Server thread/INFO]: Rocker553 left the game
+[18:28:45] [Server thread/INFO]: Stopping the server
+[18:28:45] [Server thread/INFO]: Stopping server
+[18:28:45] [Server thread/INFO]: Saving players
+[18:28:45] [Server thread/INFO]: Saving worlds
+[18:28:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[server1193]'/minecraft:overworld
+[18:28:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[server1193]'/minecraft:the_nether
+[18:28:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[server1193]'/minecraft:the_end
+[18:28:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:28:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:28:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:28:45] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
